@@ -48,6 +48,5 @@ public class MercadoriaCreateDTO {
         this.preco = preco;
         this.quantidade = quantidade;
         this.categoria = categoria;
-
     }
 }
